@@ -1,0 +1,3 @@
+[submodule "a_star"]
+	path = a_star
+	url = https://github.com/benjamin-carpene/a_star
